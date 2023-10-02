@@ -3,5 +3,6 @@ public static class contoh {
         System.out.println("hellow world");
         System.out.println("hellow world");
         System.out.println("test kevin");
+        System.out.println("test reva");
     }
 }
